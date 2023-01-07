@@ -14,3 +14,8 @@
 - 唐揚げ
 - ラーメン
 - しゃぶしゃぶ
+
+## 私Aの好きなゲーム
+- Valorant
+- Escape from tarkov
+- Rocket League
